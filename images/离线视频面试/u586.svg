@@ -1,5 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="1398 8008  12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1404 8008  C 1407.36 8008  1410 8010.64  1410 8014  C 1410 8017.36  1407.36 8020  1404 8020  C 1400.64 8020  1398 8017.36  1398 8014  C 1398 8010.64  1400.64 8008  1404 8008  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-  <path d="M 1404 8008.5  C 1407.08 8008.5  1409.5 8010.92  1409.5 8014  C 1409.5 8017.08  1407.08 8019.5  1404 8019.5  C 1400.92 8019.5  1398.5 8017.08  1398.5 8014  C 1398.5 8010.92  1400.92 8008.5  1404 8008.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="7px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip37">
+      <path d="M 0 0  L 6 7  L 12 0  L 0 0  Z " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -286 -7490 )">
+    <path d="M 0 0  L 6 7  L 12 0  L 0 0  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" transform="matrix(1 0 0 1 286 7490 )" />
+    <path d="M 0 0  L 6 7  L 12 0  L 0 0  Z " stroke-width="2" stroke="#797979" fill="none" transform="matrix(1 0 0 1 286 7490 )" mask="url(#clip37)" />
+  </g>
 </svg>
